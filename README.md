@@ -1,5 +1,7 @@
 # rust-system-monitor
 
+![Rust System Monitor](assets/thumbnail.png)
+
 A terminal-based system monitor written in **Rust** using `ratatui`,
 `crossterm`, and `sysinfo`.
 
